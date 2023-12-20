@@ -1,0 +1,206 @@
+{
+	"US-AL": {
+		"Cannabis": "Medical",
+		"Name": "Alabama"
+	},
+	"US-AK": {
+		"Cannabis": "Legal",
+		"Name": "Alaska"
+	},
+	"US-AZ": {
+		"Cannabis": "Legal",
+		"Name": "Arizona"
+	},
+	"US-AR": {
+		"Cannabis": "Medical",
+		"Name": "Arkansas"
+	},
+	"US-CA": {
+		"Cannabis": "Legal",
+		"Name": "California"
+	},
+	"US-CO": {
+		"Cannabis": "Legal",
+		"Name": "Colorado"
+	},
+	"US-CT": {
+		"Cannabis": "Legal",
+		"Name": "Conneticut"
+	},
+	"US-DE": {
+		"Cannabis": "Legal",
+		"Name": "Delaware"
+	},
+	"US-FL": {
+		"Cannabis": "Medical",
+		"Name": "Florida"
+	},
+	"US-GA": {
+		"Cannabis": "Illegal",
+		"Name": "Georgia"
+	},
+	"US-HI": {
+		"Cannabis": "Decriminalized",
+		"Name": "Hawaii"
+	},
+	"US-ID": {
+		"Cannabis": "Illegal",
+		"Name": "Idaho"
+	},
+	"US-IL": {
+		"Cannabis": "Legal",
+		"Name": "Illinois"
+	},
+	"US-IN": {
+		"Cannabis": "Illegal",
+		"Name": "Indiana"
+	},
+	"US-IA": {
+		"Cannabis": "Illegal",
+		"Name": "Iowa"
+	},
+	"US-KS": {
+		"Cannabis": "Illegal",
+		"Name": "Kansas"
+	},
+	"US-KY": {
+		"Cannabis": "Medical",
+		"Name": "Kentucky"
+	},
+	"US-LA": {
+		"Cannabis": "Decriminalized",
+		"Name": "Louisiana"
+	},
+	"US-ME": {
+		"Cannabis": "Legal",
+		"Name": "Maine"
+	},
+	"US-MD": {
+		"Cannabis": "Legal",
+		"Name": "Maryland"
+	},
+	"US-MA": {
+		"Cannabis": "Legal",
+		"Name": "Massachusetts"
+	},
+	"US-MI": {
+		"Cannabis": "Legal",
+		"Name": "Michigan"
+	},
+	"US-MN": {
+		"Cannabis": "Legal",
+		"Name": "Minnesota"
+	},
+	"US-MS": {
+		"Cannabis": "Decriminalized",
+		"Name": "Mississippi"
+	},
+	"US-MO": {
+		"Cannabis": "Legal",
+		"Name": "Missouri"
+	},
+	"US-MT": {
+		"Cannabis": "Legal",
+		"Name": "Montana"
+	},
+	"US-NE": {
+		"Cannabis": "Illegal",
+		"Name": "Nebraska"
+	},
+	"US-NV": {
+		"Cannabis": "Legal",
+		"Name": "Nevada"
+	},
+	"US-NH": {
+		"Cannabis": "Decriminalized",
+		"Name": "New Hampshire"
+	},
+	"US-NJ": {
+		"Cannabis": "Legal",
+		"Name": "New Jersey"
+	},
+	"US-NM": {
+		"Cannabis": "Legal",
+		"Name": "New Mexico"
+	},
+	"US-NY": {
+		"Cannabis": "Legal",
+		"Name": "New York"
+	},
+	"US-NC": {
+		"Cannabis": "Decriminalized",
+		"Name": "North Carolina"
+	},
+	"US-ND": {
+		"Cannabis": "Medical",
+		"Name": "North Dakota"
+	},
+	"US-OH": {
+		"Cannabis": "Legal",
+		"Name": "Ohio"
+	},
+	"US-OK": {
+		"Cannabis": "Medical",
+		"Name": "Oklahoma"
+	},
+	"US-OR": {
+		"Cannabis": "Legal",
+		"Name": "Oregon"
+	},
+	"US-PA": {
+		"Cannabis": "Decriminalized",
+		"Name": "Pennsylvania"
+	},
+	"US-RI": {
+		"Cannabis": "Legal",
+		"Name": "Rhode Island"
+	},
+	"US-SC": {
+		"Cannabis": "Illegal",
+		"Name": "South Carolina"
+	},
+	"US-SD": {
+		"Cannabis": "Medical",
+		"Name": "South Dakota"
+	},
+	"US-TN": {
+		"Cannabis": "Illegal",
+		"Name": "Tennessee"
+	},
+	"US-TX": {
+		"Cannabis": "Illegal",
+		"Name": "Texas"
+	},
+	"US-UT": {
+		"Cannabis": "Illegal",
+		"Name": "Utah"
+	},
+	"US-VE": {
+		"Cannabis": "Legal",
+		"Name": "Vermont"
+	},
+	"US-VA": {
+		"Cannabis": "Legal",
+		"Name": "Virginia"
+	},
+	"US-WA": {
+		"Cannabis": "Legal",
+		"Name": "Washington"
+	},
+	"US-WV": {
+		"Cannabis": "Medical",
+		"Name": "West Virginia"
+	},
+	"US-WI": {
+		"Cannabis": "Decriminalized",
+		"Name": "Wisconsin"
+	},
+	"US-WY": {
+		"Cannabis": "Illegal",
+		"Name": "Wyoming"
+	},
+	"US-DC": {
+		"Cannabis": "Legal",
+		"Name": "District of Columbia"
+	}
+}
